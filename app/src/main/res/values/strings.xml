@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Sqlite Overview</string>
+
+    <string name="avgvalue">avg. /n 15.987</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

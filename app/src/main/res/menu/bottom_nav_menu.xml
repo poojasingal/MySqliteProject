@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/action_contact"
+        android:enabled="true"
+        android:title="Contact"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/action_userss"
+        android:enabled="true"
+        android:title="User Detail"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/action_nearby"
+        android:enabled="true"
+        android:title="Nearby"
+        app:showAsAction="ifRoom" />
+</menu>
